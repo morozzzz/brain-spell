@@ -4,3 +4,4 @@ webpack.config.js
 /node_modules
 jquery-ui.js
 .vscode
+/dist
