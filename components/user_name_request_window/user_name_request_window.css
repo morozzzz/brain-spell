@@ -1,0 +1,41 @@
+.user-name-request-window {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    align-self: center;
+    background-image: url('../../resources/images/user_name_request_window/board.png');
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
+}    
+.user-name-window-messege {
+    font-family: 'Comic Kings';
+    color: rgb(255, 255, 255);
+    cursor: default;
+}
+.user-name-window-text-area {
+    outline: none;
+    font-family: 'Comic Kings';
+    background: rgb(255, 255, 255);
+    border: none;
+}
+.user-name-window-play-button {
+    font-family: 'Comic Kings';
+    background: none;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    line-height: 1.4;
+    color: rgb(255, 255, 255);
+}
+
+.user-name-window-play-button:hover {
+    transform: scale(1.1);
+}
+
+.user-name-window-play-button:active {
+    outline: none;
+}
