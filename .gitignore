@@ -1,7 +1,0 @@
-package-lock.json
-package.json
-webpack.config.js
-/node_modules
-jquery-ui.js
-.vscode
-/dist
