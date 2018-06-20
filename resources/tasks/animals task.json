@@ -1,0 +1,36 @@
+{
+    "1": {
+        "task": "./resources/images/animals/lion.png",
+        "answer": "lion"
+    },
+
+    "2": {
+        "task": "./resources/images/animals/elephant.png",
+        "answer": "elephant"
+    },
+
+    "3": {
+        "task": "./resources/images/animals/fox.png",
+        "answer": "fox"
+    },
+
+    "4": {
+        "task": "./resources/images/animals/frog.png",
+        "answer": "frog"
+    },
+
+    "5": {
+        "task": "./resources/images/animals/monkey.png",
+        "answer": "monkey"
+    },
+
+    "6": {
+        "task": "./resources/images/animals/pig.png",
+        "answer": "pig"
+    },
+
+    "7": {
+        "task": "./resources/images/animals/snake.png",
+        "answer": "snake"
+    }
+}

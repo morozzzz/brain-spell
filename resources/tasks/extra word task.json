@@ -1,0 +1,31 @@
+{
+    "1": {
+        "task": ["sea", "valley", "ocean", "lake"],
+        "answer": "valley"
+    },
+
+    "2": {
+        "task": ["plate", "fork", "spoon", "lump"],
+        "answer": "lump"
+    },
+
+    "3": {
+        "task": ["fish", "bear", "wolf", "rabbit"],
+        "answer": "fish"
+    },
+
+    "4": {
+        "task": ["africa", "australia", "america", "china"],
+        "answer": "china"
+    },
+
+    "5": {
+        "task": ["sun", "star", "moon", "rain"],
+        "answer": "rain"
+    },
+
+    "6": {
+        "task": ["shop", "market", "mall", "cinema"],
+        "answer": "cinema"
+    }
+}
